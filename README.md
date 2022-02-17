@@ -1,5 +1,5 @@
 # CS-499 ePortfolio
-## Data Structures and Algorithms: Enhancement Two
+## Enhancement Two
 For the Data Structures and Algorithms portion of the ePortfolio, I chose to focus on the Binary Search Tree project from the CS 260: Data Structures and Algorithms course. This project was created in the June of 2020 during the 20EW6 term. The project aimed to demonstrate the usage and functionality of Binary Search Trees using the C++ programming language. It allowed users to filter and sort through a file of bids.
 
 

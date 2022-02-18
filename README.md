@@ -18,13 +18,16 @@ I had conducted a lot of research for this artifact. I began with revisiting bin
       
 As seen here, the delete function is used to delete the node pointer, left. Quite similarly, this method is used to deallocate the other node pointers. 
 
-### Artifact Links:
+
+### Artifact Link:
+
+[Enhancement Two Repository](https://github.com/DIParham/Data-Structures/tree/master/Enhancement2)
+
+### ePortfolio Links:
 [Code Review](https://www.screencast.com/t/xoiB2GQ8Jtb7)
 
 [Professional Assessment](https://diparham.github.io/ePortfolio/)
 
-[Enhancement One](https://github.com/DIParham/Software-Engineering)
+[Enhancement One](https://diparham.github.io/Software-Engineering/)
 
-[Enhancement Two](https://github.com/DIParham/Data-Structures/tree/master/Enhancement2)
-
-[Enhancement Three](https://github.com/DIParham/Databases/tree/master/Databases%20Artifact)
+[Enhancement Three](https://diparham.github.io/Databases/)

@@ -21,7 +21,7 @@ As seen here, the delete function is used to delete the node pointer, left. Quit
 
 ### Artifact Link:
 
-[Data Structures and Algorithms Repository](https://github.com/DIParham/Data-Structures/tree/master/Enhancement2)
+[Data Structures and Algorithms Repository](https://github.com/DIParham/Data-Structures)
 
 ### ePortfolio Links:
 [Code Review](https://www.screencast.com/t/xoiB2GQ8Jtb7)
